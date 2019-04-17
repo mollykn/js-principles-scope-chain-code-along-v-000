@@ -22,9 +22,9 @@ function overWriteBestCustomer(){
 
 }
 
-function attemptTwoFavoriteCustomers(){
-  let favoriteCustomer = 'jen'
-  let favoriteCustomer = 'not jen'
+//function attemptTwoFavoriteCustomers(){
+  //let favoriteCustomer = 'jen'
+  //let favoriteCustomer = 'not jen'
 
 
-}
+//}
