@@ -1,6 +1,6 @@
 /* Your code goes here */
 var customerName = "bob"
-let leastFavoriteCustomer = "greg"
+const leastFavoriteCustomer = "greg"
 
 function upperCaseCustomerName(){
     customerName = customerName.toUpperCase()
@@ -22,9 +22,9 @@ function overWriteBestCustomer(){
 
 }
 
-function attemptTwoFavoriteCustomers (){
-      let favoriteCustomer = "suzy"
-      let favoriteCustomer = "not suzy"
+function attemptTwoFavoriteCustomers(){
+  let favoriteCustomer = 'jen'
+  let favoriteCustomer = 'not jen'
 
 
 }
